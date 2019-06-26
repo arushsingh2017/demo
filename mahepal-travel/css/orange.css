@@ -2033,6 +2033,7 @@ p{
 	background:url('../images/cover-about-us.jpg') 50% 45%;
 	background-size:cover;
 	color:white;
+	margin-top:0;
 }
 
 /********** COVER BLOG PAGES ************/
@@ -2159,6 +2160,7 @@ p{
 #cover-tour-search{
 	background:url('../images/cover-tour-search.jpg') 50% 20%;
 	background-size:cover;
+	margin-top:0;
 }
 
 #cover-cruise-search{
