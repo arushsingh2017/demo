@@ -3174,7 +3174,7 @@ h1,h2,h3,h4,h5,h6,.main-title a, .flight-info h3 .flight-destination,.blog-post-
 }
 
 .grid-block .offer-price-1 li.price{
-	font-size:22px;
+	font-size:16px;
 }
 
 .grid-block .offer-price-1 li.price .pkg{
@@ -5775,8 +5775,8 @@ h1,h2,h3,h4,h5,h6,.main-title a, .flight-info h3 .flight-destination,.blog-post-
     font-weight: bold;
 }
 .footer-about-box a {
-    border: 2px solid #e1a702;
-    color: #e1a702;
+    border: 2px solid #7d3fd0;
+    color: #fff;
     display: inline-block;
     font-weight: bold;
     padding: 5px 10px;
@@ -5792,7 +5792,7 @@ h1,h2,h3,h4,h5,h6,.main-title a, .flight-info h3 .flight-destination,.blog-post-
 .col-md-3.col-sm-6.footer-gallery ul li:before {
     width: 10px;
     height: 10px;
-    border: 2px solid #e1a702;
+    border: 2px solid #7d3fd0;
     content: '';
     position: absolute;
     left: 35px;
@@ -5800,7 +5800,7 @@ h1,h2,h3,h4,h5,h6,.main-title a, .flight-info h3 .flight-destination,.blog-post-
 }
 .sm-footer h4 {
     margin: 0px 0px 20px;
-    color: #e1a702;
+    color: #fff;
     letter-spacing: 1px;
     font-weight: bold;
 }
@@ -5828,7 +5828,7 @@ h1,h2,h3,h4,h5,h6,.main-title a, .flight-info h3 .flight-destination,.blog-post-
 }
 .sm-footer .social-media i {
     border-radius: 50%;
-    background: #e1a702;
+    background: #7d3fd0;
     color: #fff;
     height: 30px;
     margin: 0 10px 0 0;
@@ -5836,7 +5836,7 @@ h1,h2,h3,h4,h5,h6,.main-title a, .flight-info h3 .flight-destination,.blog-post-
     width: 30px;
 }
 .sm-footer .contact-box i {
-    color: #e1a702;
+    color: #7d3fd0;
     margin-right: 10px;
 }
 .sm-footer p {
