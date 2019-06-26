@@ -191,12 +191,12 @@ p{
 
 .border-shape-top::before,
 .border-shape-top::after{
-	background:#333;
+	background:#041b2f;
 }
 
 .border-shape-bot::before,
 .border-shape-bot::after{
-	background:#faa61a;	
+	background:#7d3fd0;	
 }
 
 @media(max-width:991px){
@@ -219,7 +219,8 @@ p{
    ----------------------------------------------------- */
 
 #top-bar{
-	background-color:#133c60;
+	background-color:#041b2f;
+	border-bottom: 1px dashed #fff;
 }
 
 #top-bar.colored{
@@ -505,7 +506,7 @@ p{
 /************ NAVBAR-COLORED *************/
 
 .navbar-colored{
-	background:#e1a702;
+	background:#010f1b;
 }
 
 .main-navbar.navbar-colored .navbar-header .navbar-brand {
@@ -535,7 +536,7 @@ p{
 .main-navbar.navbar-colored .nav > li.active > a:focus,
 .main-navbar.navbar-colored .nav > li.active > a:hover,
 .main-navbar.navbar-colored .nav > li.active > a:focus:hover {
-	color:#012a59;
+	color:#7d3fd0;
 	background-color: transparent;
 }
 
@@ -817,7 +818,7 @@ p{
 }
 
 .flexslider li .meta .highlight-price{
-	background:#faa61a;
+	background:#041b2f;
 }
 
 .flexslider li .meta .btn{
@@ -1340,14 +1341,14 @@ p{
 /************* ORANGE FEATURES ************/
 
 #best-features.orange-features{
-	background:#133c60;
+	background:#010f1b;
 	color:#fff;
 }
 
 #best-features.orange-features .b-feature-block .fa{
-	border:3px solid #e1a702;
+	border:3px solid #7d3fd0;
 	color:white;
-	background:#e1a702;
+	background:#7d3fd0;
 }
 
 #best-features.orange-features .b-feature-block:hover .fa{
@@ -1495,7 +1496,7 @@ p{
 }
 
 .highlight-box .h-icon{
-	color:#e1a702;
+	color:#7d3fd0;
 }
 
 .highlight-box .h-text p{
@@ -1514,7 +1515,7 @@ p{
 
 #highlights.highlights-2 .highlight-box .h-text .numbers,
 #highlights.highlights-2 .highlight-box .h-text p{
-	color:#808285;
+	color:#041b2f;
 }
 
 /************* CRUISE HOMEPAGE *************/
@@ -3060,7 +3061,7 @@ p{
 /*********** ABOUT US 2 PAGE ************/
 
 #about-content-2 #abt-cnt-2-text h2{
-	color:#4d4d4d;
+	color:#7d3fd0;
 }
 
 #about-content-2 #abt-cnt-2-text h2 > span{
@@ -3068,7 +3069,7 @@ p{
 }
 
 #about-content-2 #abt-cnt-2-text h2 span > span{
-	color:#faa61a;
+	color:#7d3fd0;
 }
 
 #about-content-2 .abt-cnt-2-ftr .fa{
@@ -3989,7 +3990,7 @@ p{
 }
 
 .contact-block-2 .fa{
-	color:#faa61a;
+	color:#7d3fd0;
 }
 
 .contact-block-2 h4{
